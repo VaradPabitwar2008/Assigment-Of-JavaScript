@@ -1,0 +1,9 @@
+
+// 10. Replace Text
+// Create a string "Hello World" and use replace() to replace "World" with "JavaScript".
+// Example:
+// Output: "Hello JavaScript" 
+
+let Replace = "Hello World";
+
+console.log(Replace.replace("World","JavaScript"));
